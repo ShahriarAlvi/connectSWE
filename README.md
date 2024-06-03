@@ -108,5 +108,3 @@ To run tests for the project, use the following command:
 ```bash
 flutter test
 ```
-
-Copy and paste the above Markdown code into your `README.md` file on GitHub, and it will format correctly when viewed on the repository page.
